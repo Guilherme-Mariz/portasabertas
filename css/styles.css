@@ -402,7 +402,7 @@ button:not(:disabled),
 }
 
 textarea {
-  resize: vertical;
+  resize: none;
 }
 
 fieldset {
@@ -11205,8 +11205,4 @@ body {
 
 .footer {
   padding: 5rem 0;
-}
-
-textarea {
-  resize: none
 }
