@@ -11203,6 +11203,23 @@ body {
   color: #fff;
 }
 
+.icone {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 1px 6px 2px #000, 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    cursor: pointer;
+    transition: all 0.4s;
+    text-decoration: none;
+}
+
 .footer {
   padding: 5rem 0;
 }
